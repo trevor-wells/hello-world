@@ -1,7 +1,7 @@
 # hello-world
 hello world!
 
-##trevor wells
+## trevor wells
 **a bit about me**
 ---
 1. i'm 22
